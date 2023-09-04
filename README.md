@@ -2,14 +2,14 @@
  * @Author: fcli
  * @Date: 2023-09-04 14:12:29
  * @LastEditors: fcli
- * @LastEditTime: 2023-09-04 14:50:35
+ * @LastEditTime: 2023-09-04 17:31:14
  * @FilePath: /vue-auto-scroll/README.md
  * @Description: 
 -->
 # vue-auto-scroll
 
 
-## VUE3 循环滚动列表插件,支持鼠标滚动
+## VUE3 无缝滚动，循环滚动列表插件,支持鼠标滚动
 
 ```bash
 npm install @fcli/vue-auto-scroll --save-dev 来安装
